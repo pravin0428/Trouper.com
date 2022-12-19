@@ -49,9 +49,10 @@ Trouper.com is a freelancing website where users and appoint freelancer for proj
 ## Authors
 
 - [@Ashutosh Sharma](https://www.linkedin.com/in/darshan-kale-264335171/)
+- [@Pravin Mohite](https://www.linkedin.com/in/pravin-mohite-40b56221b/)
 - [@Anjali Dhanjode](https://www.linkedin.com/in/anjali-dhanjode-8b1292159/)
 - [@Abdus Salam](https://www.linkedin.com/in/abdus-salam-25921394/)
 - [@Darshan kale](https://www.linkedin.com/in/darshan-kale-264335171/)
-- [@Pravin Mohite](https://www.linkedin.com/in/pravin-mohite-40b56221b/)
+
 
  
